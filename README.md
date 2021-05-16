@@ -1,6 +1,6 @@
 # gameboy-shark-mx-email-dial-up-server
 
-A dial-up server and solution for the defunct Gameboy Shark MX Email software.
+Dial-up server and solution for the defunct Gameboy Shark MX Email software.
 
 ## What is Shark MX?
 
