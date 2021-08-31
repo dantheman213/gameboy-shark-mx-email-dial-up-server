@@ -16,6 +16,4 @@ https://github.com/dantheman213/gameboy-shark-mx-email-keygen
 
 ## References
 
-https://web.archive.org/web/20191205201351/https://dogemicrosystems.ca/wiki/Dial_up_server
-
-https://hub.docker.com/r/flaviostutz/freepbx
+https://github.com/Kazade/dreampi
