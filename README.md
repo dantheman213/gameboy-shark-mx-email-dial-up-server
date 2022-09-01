@@ -10,6 +10,10 @@ Shark MX was software for the Gameboy that allowed you to hook up your Gameboy t
 
 TBA
 
+## Notes
+
+There are experiemnents in the source control in both C# and Golang for how to create a dial-up server capable of serving data to Shark MX.
+
 ## Related
 
 https://github.com/dantheman213/gameboy-shark-mx-email-keygen
