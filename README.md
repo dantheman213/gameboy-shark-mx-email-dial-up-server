@@ -21,3 +21,5 @@ https://github.com/dantheman213/gameboy-shark-mx-email-keygen
 ## References
 
 https://github.com/Kazade/dreampi
+
+https://github.com/samicrusader/notdreamnorpi
